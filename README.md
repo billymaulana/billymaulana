@@ -1,5 +1,6 @@
 <h1 align="center">Hi, I'm Billy Maulana</h1>
-<p align="center"><b>Front End Developer</b></p>
+<h4 align="center">Front End Developer</h4>
+
 <p align="center"><i>Stay Hungry Stay Foolish</i></p>
 <p align="center"><a href="https://billymaulana.com/">www.billymaulana.com</a></p>
 
