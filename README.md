@@ -5,7 +5,7 @@
 <p align="center"><a href="https://billymaulana.com/">www.billymaulana.com</a></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/billymaulana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Billy Maulana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/billy-maulana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Billy Maulana" height="30" width="40" /></a>
 <a href="https://medium.com/@billymaulana" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="@billymaulana" height="50"/></a>
 </p>
 
