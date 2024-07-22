@@ -22,7 +22,7 @@
 <a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="react" width="60" height="40"/></a> 
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="[https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667](https://w7.pngwing.com/pngs/859/290/png-transparent-vitejs-hd-logo.png)" alt="vitejs" width="40" height="40"/> </a> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://w7.pngwing.com/pngs/859/290/png-transparent-vitejs-hd-logo.png" alt="vitejs" width="40" height="40"/> </a> 
 <a href="https://windicss.org/ " target="_blank" rel="noreferrer"> <img src="https://windicss.org/assets/logo.svg " alt="Tailwind" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo.svg" alt="Bootstrap" width="50" height="40"/> </a>  
