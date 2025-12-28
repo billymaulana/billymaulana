@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://linkedin.com/in/billy-maulana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Billy Maulana" height="30" width="40" /></a>
-<a href="https://medium.com/@billymaulana" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="@billymaulana" height="50"/></a>
+<a href="https://medium.com/@billymaulana" target="blank"><img align="center" src="[https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmII3ZL3slO2qgxwvFReR7eiXseQElynDIQ&s)" alt="@billymaulana" height="50"/></a>
 </p>
 
 
