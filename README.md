@@ -15,14 +15,12 @@
 
 <h2 align="center">Tech Stack:</h3>
 <p align="center">
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="javascript" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/></a>
-<a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/React_(web_framework)/React_(web_framework)-Logo.wine.png" alt="react" width="60" height="40"/></a> 
+<a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a>  
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKsOUxPZWMr5fghOqf7BbAHH5reNlLpiflw&s" alt="vitejs" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
