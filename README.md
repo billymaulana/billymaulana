@@ -22,7 +22,7 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/></a>
 <a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a>  
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo-shadow.svg" alt="vitejs" width="40" height="40"/> </a> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/500px-Vitejs-logo.svg.png" alt="vitejs" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
 <a href="https://uno.antfu.me/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="UnoCSS" width="40" height="40"/></a>
 <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  width="60" height="40"/></a>
