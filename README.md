@@ -22,22 +22,13 @@
 <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/></a>
 <a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a>  
 <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgKsOUxPZWMr5fghOqf7BbAHH5reNlLpiflw&s" alt="vitejs" width="40" height="40"/> </a> 
+<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://vitest.dev/logo-shadow.svg" alt="vitejs" width="40" height="40"/> </a> 
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
 <a href="https://uno.antfu.me/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="UnoCSS" width="40" height="40"/></a>
 <a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  width="60" height="40"/></a>
 <a href="https://pnpm.io/"><img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/14f40/id/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg"  width="40" height="40"/></a>
 <a href="https://vitest.dev/"><img src="https://vitest.dev/logo-shadow.svg"  width="40" height="40"/></a>
-<a href="https://www.cypress.io/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvVqEapXsm3wyIBCj0j6GwUMwEpsUElyGSA&s"  width="40" height="40"/></a>
 <a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg"  width="40" height="40"/></a>
-
-
-
-
-<h3 align="center">Other Languages</h3>
-<p align="center">
-<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="40" height="40"/> </a>
 </p>
 
 
