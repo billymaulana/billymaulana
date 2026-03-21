@@ -5,33 +5,7 @@
 <p align="center"><a href="https://billymaulana.com/">www.billymaulana.com</a></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/billy-maulana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Billy Maulana" height="30" width="40" /></a>
 <a href="https://medium.com/@billymaulana" target="blank" target="blank">
   <img align="center" src="https://logos-world.net/wp-content/uploads/2023/07/Medium-Logo.png" alt="Billy Maulana" height="40"  />
 </a>
 </p>
-
-
-
-<h2 align="center">Tech Stack:</h3>
-<p align="center">
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
-</p>
-
-<p align="center">
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://vuejs.org/images/logo.png" alt="vue" width="40" height="40"/></a>
-<a href="https://v3.nuxtjs.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/23360933?s=280&v=4" alt="nuxt" width="40" height="40"/></a>  
-<a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://pinia.vuejs.org/logo.svg" alt="pinia" width="40" height="40"/> </a> 
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/500px-Vitejs-logo.svg.png" alt="vitejs" width="40" height="40"/> </a> 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/> </a>
-<a href="https://uno.antfu.me/ " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/unocss/unocss/main/playground/public/icon-gray.svg" alt="UnoCSS" width="40" height="40"/></a>
-<a href="https://sass-lang.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png"  width="60" height="40"/></a>
-<a href="https://pnpm.io/"><img src="https://d33wubrfki0l68.cloudfront.net/aad219b6c931cebb53121dcda794f6180d9e4397/14f40/id/assets/images/pnpm-standard-79c9dbb2e99b8525ae55174580061e1b.svg"  width="40" height="40"/></a>
-<a href="https://vitest.dev/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYqZYrvIOIXtuhjGeCgnoAhyLmeMU5zEioGA&s"  width="40" height="40"/></a>
-<a href="https://playwright.dev/"><img src="https://playwright.dev/img/playwright-logo.svg"  width="40" height="40"/></a>
-</p>
-
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
